@@ -1,5 +1,30 @@
 WORKFLOW 1:
-(To be filled by Member 2)
+Workflow 1 — User Ticket Booking
+Description:
+ This workflow explains how a user books an event ticket through the system.
+Steps:
+User opens the web application.
+User signs up or logs into their account.
+User browses the list of available events.
+User selects a specific event.
+Event details (date, venue, price, seats) are displayed.
+User selects number of tickets.
+System checks seat availability
+User proceeds to online payment
+Payment is processed successfully.
+System confirms the booking.
+A unique QR code ticket is generated.
+Confirmation email is sent to the user.
+
+
+Key Features Involved:
+User authentication
+Event browsing
+Online payment
+Seat management
+QR code generation
+Email notification
+
 
 WORKFLOW 2:
 (To be filled by Member 2)
