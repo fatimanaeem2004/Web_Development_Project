@@ -1,0 +1,22 @@
+Workflow 3 — QR Code Scanning & Attendance 
+
+Description: 
+This workflow explains how attendance is marked using QR code tickets. 
+
+Steps: 
+1. User arrives at the event venue. 
+2. Organizer opens QR scanner in system. 
+3. User presents QR code ticket. 
+4. Organizer scans the QR code. 
+5. System retrieves ticket data. 
+6. System verifies ticket authenticity. 
+7. If valid → entry is allowed. 
+8. Attendance is marked automatically. 
+9. Seat count is updated. 
+10. If QR is scanned again → duplicate entry is blocked. 
+
+Key Features Involved: 
+● QR code validation 
+● Attendance tracking 
+● Real-time seat management 
+● Fraud prevention
