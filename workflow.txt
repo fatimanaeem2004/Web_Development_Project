@@ -1,8 +1,31 @@
 WORKFLOW 1:
 (To be filled by Member 1)
 
-WORKFLOW 2:
-(To be filled by Member 2)
+WORKFLOW 2: Organizer Event Creation
+
+Description:
+This workflow explains how an organizer creates and manages an event.
+
+Steps:
+1. Organizer logs into the system.
+2. Organizer accesses the dashboard.
+3. Clicks on “Create Event”.
+4. Enters event title and description.
+5. Adds date and time.
+6. Enters venue/location.
+7. Sets ticket price (free/paid).
+8. Defines seat capacity.
+9. Uploads event banner/image.
+10. Submits the event form.
+11. System validates entered data.
+12. Event is stored in database.
+13. Event becomes visible to users.
+
+Key Features Involved:
+● Role-based login
+● Event management system
+● Database storage
+● Organizer dashboard
 
 WORKFLOW 3:
 (To be filled by Member 3)
