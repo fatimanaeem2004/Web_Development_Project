@@ -1,7 +1,6 @@
-WORKFLOW 1:
-Workflow 1 — User Ticket Booking
+WORKFLOW 1: User Ticket Booking
 Description:
- This workflow explains how a user books an event ticket through the system.
+This workflow explains how a user books an event ticket through the system.
 Steps:
 User opens the web application.
 User signs up or logs into their account.
