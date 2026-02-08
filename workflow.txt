@@ -24,7 +24,6 @@ Seat management
 QR code generation
 Email notification
 
-
 WORKFLOW 2:
 (To be filled by Member 2)
 
